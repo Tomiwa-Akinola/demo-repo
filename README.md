@@ -1,5 +1,4 @@
 # demo-repo
 
 Demo for GitHub Intro
-
-This is a test as well
+Can there be something new
